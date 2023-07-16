@@ -1,2 +1,6 @@
 # SuperMaio
-Estudo de movimentos e posições em JS utilizando animação básica
+
+Estudo básico de movimentações, posições e frames utilizando JS em aplicação web.
+Confira o deploy em: 
+
+
