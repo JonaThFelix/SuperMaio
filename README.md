@@ -1,4 +1,4 @@
-# SuperMaio Game
+# SuperMario Game
 
 Estudo básico de movimentações, posições e frames utilizando JS em aplicação web.
 </br>
